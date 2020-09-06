@@ -32,7 +32,7 @@ de Harvard dataverse con 886 imágenes de 3100 x 3100
 
 
 
-[2] En la carpeta <a href="https://github.com/mafevera/ProyectoIA2/tree/master/utils" rel="nofollow noreferrer noopener" target="_blank">utils</a>utils se encuentran algunas funciones que se utilizaron para el desarrollo del proyecto: <br/>
+[2] En la carpeta <a href="https://github.com/mafevera/ProyectoIA2/tree/master/utils" rel="nofollow noreferrer noopener" target="_blank">utils</a> se encuentran algunas funciones que se utilizaron para el desarrollo del proyecto: <br/>
 <ol>
   <li><a href="https://github.com/mafevera/ProyectoIA2/blob/master/utils/MaskJson.ipynb" rel="nofollow noreferrer noopener" target="_blank">Notebook</a> para generar las máscaras en formato JSON del dataset original</li>
   <li><a href="https://github.com/mafevera/ProyectoIA2/blob/master/utils/MaskJsonResized.ipynb" rel="nofollow noreferrer noopener" target="_blank">Notebook</a> para generar las máscaras en formato JSON del dataset redimensionado</li>
