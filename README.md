@@ -3,7 +3,7 @@
 <img src="/img/bannerGleason2.png" style="width:1000px;">
 <b>Presentado por:</b><br/>
 Maria Fernanda Vera Negrón<br/>
-Andrés Felipe Gomez Ortiz<br/>
+Andrés Felipe Gómez Ortiz<br/>
 <br/>
 
 <b>Asignatura:</b><br/>
