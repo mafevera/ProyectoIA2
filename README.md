@@ -1,19 +1,20 @@
 # SEGMENTACIÓN Y CLASIFICACIÓN DE ESTADÍOS DE CÁNCER DE PRÓSTATA SEGÚN LA ESCALA DE GLEASON
 
-<img src="/imgs/bannerGleason2.png" style="width:1000px;">
+<img src="/img/bannerGleason2.png" style="width:1000px;">
 <b>Presentado por:</b><br/>
 Maria Fernanda Vera Negrón<br/>
 Andrés Felipe Gomez Ortiz<br/>
-
+<br/>
 
 <b>Asignatura:</b><br/>
 Inteligencia Artificial II
-
+<br/>
 Ingeniería de Sistemas.<br/>
 Universidad Industrial de Santander<br/>
-
+<br/>
 <b> Objetivo:</b><br/>
 Desarrollar e implementar un método para la segmentación y clasificación de estadíos relacionados a la agresividad del cáncer de próstata según la escala de Gleason.<br/>
+
 <b>Principales algoritmos: </b><br/>
 Se implementó el algoritmo de segmentación de objetos Mask R-CNN utilizando una arquitectura ResNet-101
 
